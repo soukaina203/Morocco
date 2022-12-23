@@ -6,9 +6,9 @@ export default class Header extends Component {
       <div className='Header'>
         <img src="0.png" alt="" />
         <ul>
-          <li> <a href="#/" >Home</a>  </li>
-          <li> <a href="#/about">About</a>  </li>
-          <li> <a href="#/contact">Contact</a>  </li>
+          <li> <a href="/" >Home</a>  </li>
+          <li> <a href="/about">About</a>  </li>
+          <li> <a href="/contact">Contact</a>  </li>
         </ul>
       </div>
     )
