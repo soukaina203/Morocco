@@ -9,7 +9,7 @@ function Section6() {
         <div className='opinion'>
           <h1> Whatever the Moroccan national team didn't qualified to the final stage
             his performance will remain immortal in
-            every moroccan citoyen's mind big thanks to everyone participate in making the moroccan dream becomes real.  </h1>
+            every moroccan citoyen's mind big thanks to everyone who participate in making the moroccan dream becomes real.  </h1>
           <p>Mourabit Soukaina</p>
         </div>
       </div>

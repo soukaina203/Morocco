@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Morocco/static/css/main.c94c6e9a.css",
-    "main.js": "/Morocco/static/js/main.86d58a2a.js",
+    "main.js": "/Morocco/static/js/main.68d8b083.js",
     "index.html": "/Morocco/index.html",
     "main.c94c6e9a.css.map": "/Morocco/static/css/main.c94c6e9a.css.map",
-    "main.86d58a2a.js.map": "/Morocco/static/js/main.86d58a2a.js.map"
+    "main.68d8b083.js.map": "/Morocco/static/js/main.68d8b083.js.map"
   },
   "entrypoints": [
     "static/css/main.c94c6e9a.css",
-    "static/js/main.86d58a2a.js"
+    "static/js/main.68d8b083.js"
   ]
 }
