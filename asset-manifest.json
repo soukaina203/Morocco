@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Morocco/static/css/main.c94c6e9a.css",
+    "main.js": "/Morocco/static/js/main.9489b0ec.js",
+    "index.html": "/Morocco/index.html",
+    "main.c94c6e9a.css.map": "/Morocco/static/css/main.c94c6e9a.css.map",
+    "main.9489b0ec.js.map": "/Morocco/static/js/main.9489b0ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94c6e9a.css",
+    "static/js/main.9489b0ec.js"
+  ]
+}
