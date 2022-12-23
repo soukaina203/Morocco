@@ -1,0 +1,28 @@
+.any {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 50em;
+  background-image: linear-gradient(
+    to bottom right,
+    var(--color1),
+    var(--color2),
+    var(--color5)
+  );
+}
+.any h1 {
+  margin-left: 15px;
+  margin-top: 15%;
+}
+.parag {
+  margin-left: 8%;
+  width: 35%;
+  font-size: 32px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.heartPic {
+  position: absolute;
+  left: 9%;
+  top: 15%;
+}
+

@@ -1,0 +1,15 @@
+:root{
+    --color1:#181F21;
+    --color2:#272727;
+    --color3:#292323;
+    --color4:#282A3A;
+    --color5:#735F32;
+    --color6:
+
+}
+body{
+    background-image: linear-gradient(to bottom right ,var(--color1),var(--color2),var(--color3),var(--color4),var(--color5));
+
+    height: fit-content;
+    color: white;
+}

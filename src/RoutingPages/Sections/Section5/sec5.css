@@ -1,0 +1,15 @@
+.trip {
+  height: 50em;
+  margin-top: -15px;
+}
+.Picts {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-left: 16%;
+  margin-top: 2%;
+}
+.Picts img {
+  width: 9.1em;
+  height: 20em;
+}

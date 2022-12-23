@@ -1,0 +1,16 @@
+.Para {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  left: 17%;
+  width: 72%;
+}
+.Tit {
+  margin-bottom: 16px;
+  padding-bottom: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.p {
+  font-size: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+}

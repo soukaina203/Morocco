@@ -1,0 +1,29 @@
+.MainPic h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 85px;
+}
+.MainPic {
+  background-size: cover;
+  height: 21em;
+}
+.secondLine {
+  position: absolute;
+  left: 33%;
+  top: 18%;
+}
+.epic {
+  width: 100%;
+  position: absolute;
+  top: 27%;
+}
+.Title {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 118px;
+  right: 28%;
+}

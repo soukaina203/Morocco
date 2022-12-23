@@ -1,0 +1,30 @@
+.logo {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: -4px;
+  left: 8px;
+}
+
+
+.Title {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 118px;
+  right: 28%;
+}
+.nsairi {
+  position: relative;
+  top: 4px;
+  /* height: 230px; */
+}
+.groupeF {
+  position: relative;
+  left: 306px;
+}
+.same {
+  position: relative;
+  left: 40%;
+}
+

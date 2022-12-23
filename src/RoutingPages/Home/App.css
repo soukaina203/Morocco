@@ -1,0 +1,15 @@
+.all {
+  display: flex;
+  flex-direction: column;
+  height: 680vh;
+  gap: 15px;
+  background-image: linear-gradient(
+    to bottom right,
+    #181f21,
+    #181f21,
+    #870c0b,
+    #292323,
+    #282a3a,
+    #735f32
+  );
+}

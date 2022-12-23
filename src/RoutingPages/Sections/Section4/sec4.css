@@ -1,0 +1,26 @@
+.Part4 {
+  height: 80em;
+  margin-top: -45px;
+}
+.pictures {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  position: absolute;
+  left: 15em;
+  top: 108em;
+}
+.pictures img {
+  width: 10.6em;
+  height: 20em;
+}
+.Title4 {
+  position: absolute;
+  top: 104em;
+  left: 5%;
+  width: 72%;
+}
+.playersDescription {
+  position: relative;
+  top: 29em;
+}

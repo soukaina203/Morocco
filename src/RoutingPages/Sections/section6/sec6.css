@@ -1,0 +1,17 @@
+.last {
+  margin-top: -15%;
+  display: flex;
+  flex-direction: row;
+  height: 29em;
+}
+.last img {
+  width: 34.1em;
+  height: 24em;
+  margin-left: 10em;
+}
+.opinion {
+  width: 28em;
+  font-size: 15px;
+  margin-top: 5%;
+  margin-left: 5px;
+}

@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.Header {
+  display: flex;
+  flex-direction: row;
+  height: 83px;
+  width: 100%;
+  background-image: linear-gradient(
+    to bottom right,
+    var(--color1),
+    var(--color2),
+    var(--color3),
+    var(--color4),
+    var(--color6)
+  );
+  position: fixed;
+  z-index: 1;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 138px;
+  position: absolute;
+  right: 35%;
+  top: 28px;
+}
+ul li {
+  list-style-type: none;
+  font-size: 23px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
